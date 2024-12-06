@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "rx/0",
+            "url": "xmrig.nanswap.com:3333",                                                        
+            "user": "nano_1zx95tfscsakkuntwpjis9k9y848h5qqhn5zodp6e7e55pwb7gp4g7oagqa3",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
